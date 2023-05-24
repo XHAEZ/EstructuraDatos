@@ -1,0 +1,282 @@
+{
+    "sucursales": {
+        "cabecera": {
+            "sig": {
+                "info": {
+                    "nombre": "Cobos",
+                    "venta": {
+                        "cabecera": {
+                            "sig": {
+                                "sig": {
+                                    "sig": {
+                                        "sig": {
+                                            "sig": {
+                                                "sig": {
+                                                    "sig": {
+                                                        "sig": {
+                                                            "sig": {
+                                                                "sig": {
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "id": 12,
+                                                                            "valor": 0.0,
+                                                                            "mes": "DICIEMBRE"
+                                                                        }
+                                                                    },
+                                                                    "info": {
+                                                                        "id": 11,
+                                                                        "valor": 0.0,
+                                                                        "mes": "NOVIEMBRE"
+                                                                    }
+                                                                },
+                                                                "info": {
+                                                                    "id": 10,
+                                                                    "valor": 0.0,
+                                                                    "mes": "OCTUBRE"
+                                                                }
+                                                            },
+                                                            "info": {
+                                                                "id": 9,
+                                                                "valor": 0.0,
+                                                                "mes": "SEPTIEMBRE"
+                                                            }
+                                                        },
+                                                        "info": {
+                                                            "id": 8,
+                                                            "valor": 0.0,
+                                                            "mes": "AGOSTO"
+                                                        }
+                                                    },
+                                                    "info": {
+                                                        "id": 7,
+                                                        "valor": 0.0,
+                                                        "mes": "JULIO"
+                                                    }
+                                                },
+                                                "info": {
+                                                    "id": 6,
+                                                    "valor": 0.0,
+                                                    "mes": "JUNIO"
+                                                }
+                                            },
+                                            "info": {
+                                                "id": 5,
+                                                "valor": 0.0,
+                                                "mes": "MAYO"
+                                            }
+                                        },
+                                        "info": {
+                                            "id": 4,
+                                            "valor": 0.0,
+                                            "mes": "ABRIL"
+                                        }
+                                    },
+                                    "info": {
+                                        "id": 3,
+                                        "valor": 0.0,
+                                        "mes": "MARZO"
+                                    }
+                                },
+                                "info": {
+                                    "id": 2,
+                                    "valor": 80.0,
+                                    "mes": "FEBRERO"
+                                }
+                            },
+                            "info": {
+                                "id": 1,
+                                "valor": 40.0,
+                                "mes": "ENERO"
+                            }
+                        },
+                        "size": 12
+                    }
+                }
+            },
+            "info": {
+                "nombre": "Danny",
+                "venta": {
+                    "cabecera": {
+                        "sig": {
+                            "sig": {
+                                "sig": {
+                                    "sig": {
+                                        "sig": {
+                                            "sig": {
+                                                "sig": {
+                                                    "sig": {
+                                                        "sig": {
+                                                            "sig": {
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "id": 12,
+                                                                        "valor": 0.0,
+                                                                        "mes": "DICIEMBRE"
+                                                                    }
+                                                                },
+                                                                "info": {
+                                                                    "id": 11,
+                                                                    "valor": 0.0,
+                                                                    "mes": "NOVIEMBRE"
+                                                                }
+                                                            },
+                                                            "info": {
+                                                                "id": 10,
+                                                                "valor": 0.0,
+                                                                "mes": "OCTUBRE"
+                                                            }
+                                                        },
+                                                        "info": {
+                                                            "id": 9,
+                                                            "valor": 0.0,
+                                                            "mes": "SEPTIEMBRE"
+                                                        }
+                                                    },
+                                                    "info": {
+                                                        "id": 8,
+                                                        "valor": 0.0,
+                                                        "mes": "AGOSTO"
+                                                    }
+                                                },
+                                                "info": {
+                                                    "id": 7,
+                                                    "valor": 0.0,
+                                                    "mes": "JULIO"
+                                                }
+                                            },
+                                            "info": {
+                                                "id": 6,
+                                                "valor": 0.0,
+                                                "mes": "JUNIO"
+                                            }
+                                        },
+                                        "info": {
+                                            "id": 5,
+                                            "valor": 0.0,
+                                            "mes": "MAYO"
+                                        }
+                                    },
+                                    "info": {
+                                        "id": 4,
+                                        "valor": 0.0,
+                                        "mes": "ABRIL"
+                                    }
+                                },
+                                "info": {
+                                    "id": 3,
+                                    "valor": 0.0,
+                                    "mes": "MARZO"
+                                }
+                            },
+                            "info": {
+                                "id": 2,
+                                "valor": 80.0,
+                                "mes": "FEBRERO"
+                            }
+                        },
+                        "info": {
+                            "id": 1,
+                            "valor": 50.0,
+                            "mes": "ENERO"
+                        }
+                    },
+                    "size": 12
+                }
+            }
+        },
+        "size": 2
+    },
+    "ventas": {
+        "size": 0
+    },
+    "sucursal": {
+        "nombre": "Cobos",
+        "venta": {
+            "cabecera": {
+                "sig": {
+                    "sig": {
+                        "sig": {
+                            "sig": {
+                                "sig": {
+                                    "sig": {
+                                        "sig": {
+                                            "sig": {
+                                                "sig": {
+                                                    "sig": {
+                                                        "sig": {
+                                                            "info": {
+                                                                "id": 12,
+                                                                "valor": 0.0,
+                                                                "mes": "DICIEMBRE"
+                                                            }
+                                                        },
+                                                        "info": {
+                                                            "id": 11,
+                                                            "valor": 0.0,
+                                                            "mes": "NOVIEMBRE"
+                                                        }
+                                                    },
+                                                    "info": {
+                                                        "id": 10,
+                                                        "valor": 0.0,
+                                                        "mes": "OCTUBRE"
+                                                    }
+                                                },
+                                                "info": {
+                                                    "id": 9,
+                                                    "valor": 0.0,
+                                                    "mes": "SEPTIEMBRE"
+                                                }
+                                            },
+                                            "info": {
+                                                "id": 8,
+                                                "valor": 0.0,
+                                                "mes": "AGOSTO"
+                                            }
+                                        },
+                                        "info": {
+                                            "id": 7,
+                                            "valor": 0.0,
+                                            "mes": "JULIO"
+                                        }
+                                    },
+                                    "info": {
+                                        "id": 6,
+                                        "valor": 0.0,
+                                        "mes": "JUNIO"
+                                    }
+                                },
+                                "info": {
+                                    "id": 5,
+                                    "valor": 0.0,
+                                    "mes": "MAYO"
+                                }
+                            },
+                            "info": {
+                                "id": 4,
+                                "valor": 0.0,
+                                "mes": "ABRIL"
+                            }
+                        },
+                        "info": {
+                            "id": 3,
+                            "valor": 0.0,
+                            "mes": "MARZO"
+                        }
+                    },
+                    "info": {
+                        "id": 2,
+                        "valor": 80.0,
+                        "mes": "FEBRERO"
+                    }
+                },
+                "info": {
+                    "id": 1,
+                    "valor": 40.0,
+                    "mes": "ENERO"
+                }
+            },
+            "size": 12
+        }
+    }
+}
